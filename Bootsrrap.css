@@ -1,0 +1,30 @@
+.navbar-brand{
+    color: aqua;
+}
+
+.logo{
+    width: 70px;
+    height: 70px;
+}
+
+.logo2{
+    position: absolute;
+    left: 0;
+    top: 90px;
+        z-index: -1;
+    width: 150px;
+    height: 150px;
+    transition: width 1s ;
+    box-shadow: 7px 7px;
+}
+
+
+.logo2:hover{
+    width: 200px;
+}
+
+
+.H1{
+    color: cadetblue;
+    font-size: 21px;
+}
